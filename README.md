@@ -28,9 +28,12 @@ Uma planilha com milhares de produtos precisa ser registrada no formulário da e
   4 - Cadastrar um produto
   
   5 - Criar uma estrutura de repetição para repetir o processo em cada linha da tabela
+  
+<hr>
 
 ### Resultado 🌟
 
+https://github.com/nayara-lucia/python-powerup/assets/126920974/1824d432-0c3f-442a-ba2a-dfb1beaac5e8
 
-
+![EDITADO 2](https://github.com/nayara-lucia/python-powerup/assets/126920974/9243252f-85b6-4ebb-a788-a505c1b92b36)
 
