@@ -1,6 +1,6 @@
 # Python Power Up - Automatização com Python ![image](https://i.gifer.com/origin/c1/c1509216eff853bf8fb246b72bb07987_w200.gif)
 
-Uma planilha com milhares de produtos precisa ser registrada no formulário da empresa. Para economizar o tempo do funcionário operacional criei uma automatização que registra mais de 20 produtos em menos de 2 minutos.
+Uma planilha com milhares de produtos precisa ser registrada no formulário da empresa. Para economizar o tempo do funcionário operacional criei uma automatização que registra mais de 20 produtos em menos de 2 minutos!
 <hr>
 
 ### Tecnologias utilizadas:
